@@ -116,12 +116,9 @@ This project simulates real-world **FinOps (Cloud Cost Optimization)** scenarios
 - Add advanced ML models (Prophet, LSTM)
 - Deploy as a web application
 - Add alerting system (email/slack)
-
 ---
 
 ## 👩‍💻 Author
 
 **Khushboo Sharma**  
 Cloud & FinOps automation
-
-## 📂 Project Structure
